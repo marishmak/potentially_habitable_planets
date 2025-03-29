@@ -1,0 +1,136 @@
+Object,Star,Star type,Mass (M⊕),Radius (R⊕),Flux (F⊕),Teq (K),Period (days),Distance (ly),Note
+Kepler-69c,Kepler-69,G4V,2.14,1.7,5.52,299.0,35.36,2700.0,"Originally thought to be in the circumstellar habitable zone (CHZ), now thought to be too hot."
+Kepler-9d,Kepler-9,G,1.5,1.64,244.19,1854.0,1.59,2350.0,Hot Neptune
+Mars (reported for reference),Sun,G2V,0.11,0.53,0.43,210.0,687.0,0.0,Reference planet in Solar System
+Gliese 180 d,Gliese 180,M2V,7.56,2.04,0.26,250.0,106.3,39.0,Confirmed exoplanet
+Gliese 555 b,Gliese 555,M4V,5.46,1.77,0.5,214.0,36.2,20.4,Confirmed Planet
+Gliese 667 Cc,Gliese 667 C,M1.5 V,3.81,1.54,0.88,277.0,28.13,23.62,Confirmed exoplanet
+Gliese 1002 b,Gliese 1002,M5V,1.08,1.03,0.67,231.0,10.3,15.8,Confirmed exoplanet
+Gliese 1002 c,Gliese 1002,M5V,1.36,1.1,0.26,182.0,21.2,15.8,Confirmed exoplanet
+GJ 1061 c,GJ 1061,M5.5V,1.74,1.18,1.45,275.0,6.7,12.0,Confirmed planet
+GJ 1061 d,GJ 1061,M5.5V,1.64,1.16,0.69,218.0,13.0,12.0,Confirmed exoplanet
+GJ 3293 d,GJ 3293,M2.0 V,7.6,2.07,0.59,223.0,48.1,66.0,Confirmed Planet
+GJ 3998 d,GJ 3998,M1 V,6.07,1.91,4.91,400.0,41.8,58.0,Confirmed exoplanet
+HD 216520 c,HD 216520,K0V,9.44,2.47,1.28,308.0,154.4,64.0,Confirmed Planet
+HIP 38594 b,HIP 38594,M0 V,8.1,2.09,1.34,329.0,60.7,58.0,Confirmed exoplanet
+K2-9b,K2-9,M2V,9.1,2.25,1.45,279.0,18.4,270.0,Confirmed exoplanet
+WASP-22 b,WASP-22,G8V,177.98,12.55,71.42,1868.0,3.53,1035.55,Hot Jupiter
+WASP-25 b,WASP-25,G5V,190.06,13.98,1123.0,1327.0,3.76,689.22,Hot Jupiter
+WASP-26 b,WASP-26,G8V,324.19,13.63,704.23,1347.0,2.75,823.99,Confirmed Planet
+WASP-2 b,WASP-2,G9V,275.24,1.07,1450.0,1560.0,2.15,499.57,Hot Jupiter
+WASP-31 b,WASP-31,F5V,155.42,17.36,1309.23,1618.0,3.4,1251.28,Hot Jupiter
+TRAPPIST-1d,TRAPPIST-1,M8 V,0.39,0.77,1.14,288.0,4.05,40.6,Located in the habitable zone of TRAPPIST-1
+TRAPPIST-1e,TRAPPIST-1,M8V,0.69,0.92,0.65,251.0,6.1,40.6,Potentially habitable exoplanet in the TRAPPIST-1 system
+TRAPPIST-1f,TRAPPIST-1,M8V,1.04,1.04,0.37,219.0,9.2,40.6,Located in the habitable zone of TRAPPIST-1
+Wolf 1069 b,Wolf 1069,M5 V,1.26,1.08,0.65,250.0,15.6,31.0,Potentially habitable exoplanet
+WASP-10 b,WASP-10,G8V,93.0,12.3,308.0,1307.0,3.09,459.65,Hot Jupiter
+WASP-12 b,WASP-12,G,467.21,21.3,3760.0,2589.0,1.09,1392.82,Hot Jupiter
+WASP-15 b,WASP-15,G5V,172.0,16.01,1101.34,1562.0,3.75,919.62,Hot Jupiter
+WASP-16 b,WASP-16,G8V,264.43,13.65,7.29,1221.0,3.118604,632.88,Confirmed Planet
+WASP-19 b,WASP-19,G8V,371.21,15.54,2118966.0,2221.0,0.79,874.74,Hot Jupiter
+WASP-1 b,WASP-1,G0V,291.77,1.49,2753.98,1843.0,2.52,1281.41,Hot Jupiter
+WASP-21 b,WASP-21,G4V,0.27,1.26,1788.0,1470.0,4.32,842.47,Hot Jupiter
+WASP-29 b,WASP-29,K5V,24.27,0.79,17.9,964.0,3.92,285.56,Hot Jupiter exoplanet
+HAT-P-44 b,HAT-P-44,K0,111.87,13.92,1480.0,1210.0,4.3,1133.99,Gas giant exoplanet orbiting a K-type star.
+GU Psc b,GU Psc,M3V,9.0,12.0,0.0,1600.0,80000.0,155.01,Exoplanet
+CoRoT-22 b,CoRoT-22,G-type,12.2,4.88,158.49,824.0,9.8,2044.54,Neptune-like exoplanet orbiting a G-type star.
+WASP-117 b,WASP-117,F-type,87.75,11.44,175.74,1660.0,10.0,514.96,Gas giant exoplanet orbiting an F-type star.
+WASP-69 b,WASP-69,K5V,92.17,12.44,1470.0,1005.0,3.9,162.87,Gas giant exoplanet orbiting a K-type star; announced in 2014.
+WASP-84 b,WASP-84,K type,69.99,10.72,85.21,1048.0,8.5,327.92,Gas giant exoplanet orbiting a K-type star.
+CoRoT-28 b,CoRoT-28,K-type,48.74,10.7,75.1,1141.0,5.2,2497.76,Gas giant exoplanet orbiting a K-type star
+HD 100546 b,HD 100546,B9Ve,2701.54,77.34,0.1,1000.0,90953.0,357.55,Gas giant exoplanet orbiting a B-type star.
+HAT-P-55 b,HAT-P-55,G,189.43,14.84,871.0,1586.0,3.6,1667.12,Gas giant exoplanet orbiting a G-type star.
+HATS-8 b,HATS-8,G,46.09,9.79,444.0,1713.0,3.6,2590.52,Gas giant; short period; announced in 2015
+K2-138 e,K2-138,G-type,12.97,3.39,847.0,890.0,8.3,660.43,Neptune-like exoplanet announced in 2017
+K2-141 b,K2-141,K-type,5.31,1.54,1840.0,2043.0,0.3,201.71,"Super-Earth exoplanet, lava planet candidate."
+K2-141 c,K2-141,K,8.0,7.0,713.0,1742.0,7.7,201.71,"Neptune-like exoplanet, short orbital period"
+Kepler-1654 b,Kepler-1654,G-type,158.91,9.18,0.17,248.0,1058.5,1852.06,Gas giant exoplanet discovered in 2018
+HATS-44 b,HATS-44,K,177.98,11.96,519.29,1527.0,2.7,1454.07,Gas giant exoplanet orbiting a K-type star.
+NGTS-3 A b,NGTS-3 A,G-type,756.44,16.59,1827.89,1729.0,1.7,2425.35,Gas giant exoplanet. High irradiation and equilibrium temperature.
+K2-237 b,K2-237,F-type star,508.53,18.49,772.0,1849.0,2.2,1026.88,Gas giant exoplanet orbiting an F-type star.
+Kepler-128 b,Kepler-128,F-type star,0.77,1.43,107.49,981.0,15.1,1292.2,Super Earth exoplanet discovered in 2013
+K2-260 b,K2-260,F-type,45.77,18.42,174.21,1690.0,2.6,2164.1,Gas giant exoplanet orbiting an F-type star.
+K2-266 e,K2-266,K-type,14.3,2.73,69.1,780.0,19.5,252.84,Neptune-like exoplanet orbiting a K-type star.
+WASP-145 A b,WASP-145 A,K-type,89.77,10.09,1658.72,1420.0,1.8,297.63,Gas giant exoplanet discovered in 2018
+WASP-172 b,WASP-172,F-type star,149.38,17.6,173.71,1547.0,5.5,1754.24,Gas giant exoplanet announced in 2018
+LHS 1815 b,LHS 1815,M,1.58,1.09,2.27,328.0,3.8,97.29,"Super Earth exoplanet orbiting an M-type star, discovered in 2020"
+TOI-1130 b,TOI-1130,K-type,19.8,3.66,170.0,930.0,4.1,189.93,Neptune-like exoplanet orbiting a K-type star.
+TOI-1130 c,TOI-1130,K-type,308.29,16.81,70.46,1100.0,8.4,189.93,"Gas giant exoplanet, announced in 2020"
+CoRoT-30 b,CoRoT-30,G-type,921.71,11.31,17.31,1300.0,9.1,3365.07,"Gas giant exoplanet, mass 2.9 Jupiters, announced in 2020"
+CoRoT-31 b,CoRoT-31,G,266.98,16.37,168.62,1770.0,4.6,6538.78,Gas giant exoplanet orbiting a G-type star.
+TOI-1235 b,TOI-1235,K,6.91,1.74,151.25,1115.0,3.4,129.21,Super Earth exoplanet orbiting a K-type star; announced in 2020
+Wendelstein-1 b,Wendelstein-1,K-type,188.16,11.56,1700.0,1300.0,2.7,995.28,"Gas giant exoplanet, announced in 2020"
+Wendelstein-2 b,Wendelstein-2,K,232.33,12.99,1100.0,1500.0,1.8,1843.66,"Gas giant exoplanet orbiting a K-type star, announced in 2020."
+HD 191939 d,HD 191939,G8V,2.8,3.0,6.52,686.0,38.4,174.77,Neptune-like exoplanet
+TYC 8998-760-1 c,TYC 8998-760-1,K-type,1906.98,12.33,0.0,0.0,2090649.0,308.45,Gas giant exoplanet discovered in 2020
+HATS-37 A b,HATS-37 A,G-type,31.47,6.79,0.0,1400.0,4.3,690.78,Neptune-like exoplanet orbiting a G-type star; discovered in 2020.
+TOI-421 b,TOI-421,G-type,7.17,2.68,214.0,1217.0,5.2,243.84,Neptune-like exoplanet orbiting a G-type star
+GPX-1 b,GPX-1,F-type,6261.22,16.48,1651.17,1750.0,1.7,2135.34,Gas giant exoplanet orbiting an F-type star
+TOI-1431 b,TOI-1431,A,991.62,16.7,315.0,2250.0,2.7,485.5,Gas giant exoplanet orbiting an A-type star. High equilibrium temperature.
+HD 63935 b,HD 63935,G-type,10.5,2.92,70.0,830.0,9.1,159.65,Neptune-like exoplanet discovered in 2021
+HIP 97166 b,HIP 97166,K-type,20.0,2.74,14.83,788.0,10.3,215.0,Neptune-like exoplanet discovered in 2021
+HD 137496 b,HD 137496,G-type,4.04,1.31,299.55,1400.0,1.6,506.33,Super Earth exoplanet discovered in 2021
+TOI-1842 b,TOI-1842,F-type,68.02,11.66,188.68,1609.0,9.6,728.5,Gas giant exoplanet orbiting an F-type star.
+Kepler-1708 b,Kepler-1708,F-type,1462.01,9.96,0.15,250.0,730.5,5433.41,"Gas giant exoplanet, 4.6 Jupiter masses, announced in 2021"
+GJ 3090 b,GJ 3090,M dwarf,3.34,2.13,14.78,841.0,2.9,73.27,Neptune-like exoplanet orbiting an M-type star
+TOI-260 b,TOI-260,K-type,4.23,1.71,83.22,1032.0,13.5,65.8,Super Earth exoplanet discovered in 2024
+HIP 8152 c,HIP 8152,G-type,10.7,2.52,6.09,534.0,19.6,331.52,"Super Earth exoplanet, announced in 2023. Flux and Teq calculated based on distance and star type."
+TOI-286 b,TOI-286,K-type,4.53,1.42,150.71,1147.0,4.5,193.09,Super Earth exoplanet discovered in 2024. Orbital distance 0.0503 AU.
+TOI-286 c,TOI-286,K-type,3.72,1.88,5.93,444.0,39.4,193.09,Super Earth exoplanet announced in 2024
+TOI-411 c,TOI-411,F,9.72,2.33,22.15,1440.0,9.6,204.66,Super Earth exoplanet announced in 2022
+TOI-411 b,TOI-411,F,13.71,1.36,225.55,1322.0,4.0,204.66,Super Earth exoplanet discovered in 2022
+HD 42813 b,HD 42813,K-type,5.9,3.43,124.91,788.0,13.6,222.31,Neptune-like exoplanet discovered in 2023
+HD 25463 b,HD 25463,F-type,8.7,2.55,161.32,907.0,7.0,148.72,Neptune-like exoplanet discovered in 2023
+HD 25463 c,HD 25463,F-type,4.3,1.36,91.92,1157.0,3.0,148.72,"Super Earth exoplanet, announced in 2023"
+TOI-663 b,TOI-663,M,4.45,2.27,15.98,778.0,2.6,209.39,"Neptune-like exoplanet orbiting an M-type star, announced in 2024."
+TOI-663 c,TOI-663,M-type,3.65,2.26,5.71,724.0,4.7,209.39,"Neptune-like exoplanet orbiting an M-type star, announced in 2024"
+TOI-663 d,TOI-663,M,5.2,1.92,2.9,520.0,7.1,209.39,Super Earth exoplanet orbiting an M-type star
+TOI-1472 b,TOI-1472,K-type,16.5,4.16,208.0,780.0,6.4,397.2,Neptune-like exoplanet announced in 2024
+HD 6061 b,HD 6061,G,10.0,2.45,74.71,864.0,5.3,220.44,Super Earth exoplanet
+TOI-1669 c,TOI-1669,G-type,13.0,2.3,178.0,1400.0,2.7,362.76,Super Earth exoplanet discovered in 2024. Orbital radius 0.0376 AU.
+TOI-1695 b,TOI-1695,M-type,5.5,2.03,227.0,774.0,3.1,147.13,"Super Earth exoplanet orbiting an M-type star, announced in 2022."
+TOI-1723 b,TOI-1723,G-type,10.4,3.29,63.0,780.0,13.7,328.37,Neptune-like exoplanet discovered in 2024
+TOI-1751 b,TOI-1751,F-type star,14.5,2.77,14.65,760.0,37.5,369.47,Super Earth exoplanet announced in 2024
+TOI-1775 b,TOI-1775,K,30.64,8.05,192.79,1309.0,10.2,486.5,Gas giant exoplanet orbiting a K-type star
+TOI-1776 b,TOI-1776,G-type,1.4,1.22,19.2,1265.0,2.8,145.55,Super-Earth exoplanet announced in 2024. Flux and Teq values are estimated.
+HD 77946 b,HD 77946,F-type,8.38,2.71,168.23,1142.0,6.5,324.21,Neptune-like exoplanet discovered in 2024
+TOI-1798.01,TOI-1798,K-type,6.5,2.39,73.23,841.0,8.0,368.97,"Neptune-like exoplanet, announced in 2024"
+TOI-1799 b,TOI-1799,G-type,4.0,1.42,145.68,1151.0,7.1,202.54,Super Earth exoplanet orbiting a G-type star.
+TOI-1820 b,TOI-1820,G-type,731.01,12.78,114.76,1770.0,4.9,810.12,"Gas giant exoplanet, 2.3 Jupiter masses, announced in 2022"
+TOI-1836 c,TOI-1836,F-type,8.0,2.6,174.38,1602.0,1.8,624.78,Neptune-like exoplanet announced in 2024
+TOI-1898 b,TOI-1898,F-type star,40.87,9.4,7.33,1044.0,45.5,259.72,Gas giant exoplanet orbiting an F-type star.
+Kepler-307 b,Kepler-307,G-type,8.81,3.01,1.75,750.0,10.4,1876.39,Neptune-like exoplanet discovered in 2013
+TOI-3757 b,TOI-3757,M,85.3,12.0,41.6,1248.0,3.4,590.51,A gas giant exoplanet with the density of a marshmallow has been detected in orbit around a cool red dwarf .
+TOI-3785 b,TOI-3785,M,14.95,5.14,71.78,842.0,4.7,260.03,"Neptune-like exoplanet orbiting an M-type star, announced in 2023"
+TOI-3807 b,TOI-3807,G-type,330.54,18.49,845.47,1542.0,2.9,1374.89,Gas giant exoplanet orbiting a G-type star.
+TOI-3912 b,TOI-3912,G-type,129.04,14.28,85.5,1571.0,3.5,1519.13,"Gas giant exoplanet, announced in 2023"
+KOI-1599.01,KOI-1599,G,4.6,1.9,71.28,1041.0,4.27,3689.15,"Kepler object of interest, planet candidate"
+TOI-3984 A b,TOI-3984 A,M-type,44.0,7.9,161.92,1198.0,4.4,354.96,Gas giant exoplanet discovered in 2023. Mass is 0.14 Jupiter masses.
+TOI-4010 d,TOI-4010,K-type,38.15,6.18,154.11,886.0,14.7,578.66,Gas giant exoplanet discovered in 2023
+TOI-4010 b,TOI-4010,K-type,11.0,3.02,1470.0,1600.0,1.3,578.66,Neptune-like exoplanet discovered in 2023
+TOI-4087 b,TOI-4087,F-type,232.01,13.05,782.0,1700.0,3.2,983.46,"Gas giant exoplanet, announced in 2023"
+Kepler-56 b,Kepler-56,K,22.1,6.51,221.0,822.0,10.5,2976.36,"Neptune-like exoplanet orbiting a K-type star, announced in 2012."
+Kepler-282 e,Kepler-282,G-type,56.2,3.1,0.76,500.0,44.3,4360.61,"Gas giant exoplanet, announced in 2013, 0.2269 AU from its star."
+K2-417 b,K2-417,M-type,699.22,3.31,150.0,600.0,6.5,306.58,Neptune-like exoplanet discovered in 2023
+TOI-4600 c,TOI-4600,K-type,2946.27,9.42,0.01,210.0,482.8,704.34,"Gas giant exoplanet orbiting a K-type star, announced in 2023"
+HIP 29442 c,HIP 29442,K-type,4.5,1.55,76.2,630.0,3.5,222.31,HIP 29442 c is a super Earth exoplanet.
+HIP 29442 d,HIP 29442,K-type,5.14,1.54,183.23,744.0,6.4,222.31,Super Earth exoplanet announced in 2023.
+GJ 806 b,GJ 806,M-type,1.9,1.33,150.0,600.0,0.9,39.27,"Super Earth exoplanet, short period, announced in 2023"
+HD 110067 b,HD 110067,K,5.69,2.2,147.35,715.0,9.1,104.84,Neptune-like exoplanet announced in 2023
+HD 110067 d,HD 110067,K,8.52,2.85,43.93,732.0,20.5,104.84,"Neptune-like exoplanet orbiting a K-type star, announced in 2023"
+HD 110067 e,HD 110067,K,3.9,1.94,31.45,614.0,30.8,104.84,Neptune-like exoplanet announced in 2023
+HD 110067 g,HD 110067,K,8.4,2.61,5.14,424.0,54.8,104.84,Neptune-like exoplanet discovered in 2023
+HD 88986 b,HD 88986,G,17.2,2.49,6.45,505.0,146.1,108.45,Super Earth exoplanet announced in 2023
+Kepler-317 b,Kepler-317,G-type,109.8,2.08,174.0,1700.0,5.5,3066.3,Super Earth exoplanet orbiting a G-type star.
+TIC 393818343 b,TIC 393818343,G-type,1379.38,12.18,0.0,0.0,16.2,305.57,Gas giant exoplanet announced in 2024
+Kepler-50 c,Kepler-50,F,8.2,2.79,166.61,1244.0,9.4,815.36,"Super Earth exoplanet, announced in 2012"
+Kepler-128 c,Kepler-128,F,0.9,1.34,17.34,900.0,22.8,1292.2,"Super Earth exoplanet, F-type star, announced in 2013"
+Kepler-138 b,Kepler-138,M1 V,0.5,0.71,1.75,350.0,10.3,218.0,Terrestrial exoplanet orbiting an M-type star.
+Kepler-99 b,Kepler-99,K-type,6.15,1.48,145.0,1023.0,4.6,679.28,Kepler-99 b is a super Earth exoplanet.
+Kepler-161 c,Kepler-161,K-type,11.8,1.87,300.0,780.0,7.1,1416.9,"Super Earth exoplanet, announced in 2014"
+Kepler-414 c,Kepler-414,G-type,29.9,3.01,167.49,876.0,7.2,1347.88,Neptune-like exoplanet announced in 2014
+Kepler-60 c,Kepler-60,G,3.84,2.05,156.0,1043.0,8.9,3341.83,Kepler-60 c is a super Earth exoplanet.
+Kepler-338 e,Kepler-338,G-type,8.5,1.56,17.4,870.0,9.3,1802.12,Super Earth exoplanet orbiting a G-type star.
+Kepler-38 b,Kepler-38,G-type,38.73,4.3,3.2,286.0,105.6,3829.16,Gas giant exoplanet orbiting a G-type star; Discovery announced in 2012
+Kepler-101 b,Kepler-101,G-type,51.1,5.77,249.42,1692.0,3.5,3025.22,"Gas giant exoplanet, announced in 2014"
+Kepler-30 b,Kepler-30,G,11.3,3.6,81.0,841.0,29.3,2980.36,Neptune-like exoplanet orbiting a G-type star; discovered in 2012
