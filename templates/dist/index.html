@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exoplanet Visualizations</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Exoplanet Explorations</h1>
+        
+        <div class="visualization">
+            <h2>1. Planet Radius Comparison</h2>
+            <div class="chart-container">
+                <canvas id="radius-chart"></canvas>
+            </div>
+        </div>
+        
+        <div class="visualization">
+            <h2>2. Planet Characteristics Comparison</h2>
+            <div class="controls">
+                <select id="planet-select" multiple size="5">
+                </select>
+                <button id="compare-btn">Compare Selected</button>
+            </div>
+            <div class="chart-container">
+                <canvas id="comparison-chart"></canvas>
+            </div>
+        </div>
+        
+        <div class="visualization">
+            <h2>3. Flux vs Temperature</h2>
+            <div class="chart-container">
+                <canvas id="flux-chart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/js/script.js"></script>
+</body>
+</html>
